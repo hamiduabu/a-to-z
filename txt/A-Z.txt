@@ -1,0 +1,29 @@
+﻿A for Airplane
+B for Balloons
+C for Car
+D for Door
+E for Eggs
+F for Fish
+G for Gate
+H for House		
+I for Icecream
+J for Jug
+K for Kite
+L for Lollipop
+M for Milk
+N for Noodles
+O for Orange
+P for Plate
+Q for Question
+R for Rabbit
+S for Sun
+T for Table
+U for Umbrella
+V for Van
+W for Water
+X for Xylophone
+Y for Yam
+Z for Zebra
+
+
+Photo by Binyamin Mellish from Pexels
